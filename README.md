@@ -1,2 +1,2 @@
 # project_euler
-Solutions to problems 
+Solutions to problems for Project Euler.
