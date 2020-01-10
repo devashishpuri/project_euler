@@ -21,7 +21,7 @@ void main() {
 int getLargestMultiple(int number) {
   int largestMultiple = 1;
   int factorLimit = (sqrt(number)).round();
-  for (int i = 1; i < factorLimit; i++) {
+  for (int i = 1; i <= factorLimit; i++) {
     if (number % i == 0) {
       largestMultiple = i;
     }
