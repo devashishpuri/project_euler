@@ -48,3 +48,19 @@ What is the 10 001st prime number?
 The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
 
 Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
+
+
+### Problem 9
+A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+
+a^2 + b^2 = c^2
+For example, 3^2 + 4^2 = 9 + 16 = 25 = 5^2.
+
+There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+Find the product abc.
+
+
+### Product 10
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+
+Find the sum of all the primes below two million.
